@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamenAppUI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">todo</string>
+    <string name="saved_listings">Saved Listings</string>
+    <string name="save">Save your favorite listings to come back to them later</string>
+    <string name="add_new">Add new listings directly from the app, including from gallery and filters</string>
+    <string name="real">Communicate wity your customers and vendors in real-time</string>
+    <string name="p">Stay on stop of your game with real-time push notifications</string>
+</resources>
